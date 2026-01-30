@@ -1,6 +1,6 @@
 # Task Manager (Kanban) – Fullstack (Spring Boot + React + MySQL + Docker)
 
-Repositório fullstack pronto para entrevista: **backend Spring Boot (Java 17)**, **frontend React (Vite)** e **MySQL**, tudo via **Docker Compose**.
+Repositório: **backend Spring Boot (Java 17)**, **frontend React (Vite)** e **MySQL**, tudo via **Docker Compose**.
 
 ## ✅ Como rodar com Docker
 
