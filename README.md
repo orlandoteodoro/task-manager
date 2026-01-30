@@ -46,7 +46,7 @@ npm run dev
 
 ## Estrutura
 - `backend/` Spring Boot + JPA + Validation + Swagger (springdoc) + CORS
-- `frontend/` React (Vite) + Axios + Kanban + modal “Nova Tarefa” com validação
+- `frontend/` React (Vite) + Axios + Kanban 
 
 ## Observações
 - Banco MySQL sobe via Docker (porta 3306).
